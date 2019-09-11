@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Featured Publications"
-subtitle = ""
+subtitle = "Time-series machine-learning error models for approximate solutions to parameterized dynamical systems"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
