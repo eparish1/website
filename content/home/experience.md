@@ -32,6 +32,6 @@ date_format = "Jan 2006"
   location = "Ann Arbor, MI"
   date_start = "2014"
   date_end = "2018"
-  description = """Research Advisor: Karthik Duraisamy."""
+  description = "Research Advisor: Karthik Duraisamy."
 
 +++
