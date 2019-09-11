@@ -17,21 +17,21 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "John von Neumann Postdoctoral Fellow"
-  company = "Sandia National Laboratories"
-  company_url = ""
-  location = "California"
-  date_start = "2018"
-  date_end = ""
-
-[[experience]]
-  title = "Ph.D. Student"
-  company = "University of Michigan"
-  company_url = ""
-  location = "Ann Arbor, MI"
-  date_start = "2014"
-  date_end = "2018"
-  description = "Research Advisor: Karthik Duraisamy."
+#[[experience]]
+#  title = "John von Neumann Postdoctoral Fellow"
+#  company = "Sandia National Laboratories"
+#  company_url = ""
+#  location = "California"
+#  date_start = "2018"
+#  date_end = ""
+#
+#[[experience]]
+#  title = "Ph.D. Student"
+#  company = "University of Michigan"
+#  company_url = ""
+#  location = "Ann Arbor, MI"
+#  date_start = "2014"
+#  date_end = "2018"
+#  description = "Research Advisor: Karthik Duraisamy"
 
 +++
