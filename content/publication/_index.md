@@ -24,13 +24,13 @@ header:
 #  # Choose how many pages you would like to offset by
 #  offset = 0
 #
-##  # Page order. Descending (desc) or ascending (asc) date.
+#  # Page order. Descending (desc) or ascending (asc) date.
 #  order = "desc"
 #
 #  # Filter posts by a taxonomy term.
 #  [content.filters]
-#    tag = ""
-#    category = ""
+#    tag = "Test1"
+#    category = "Paper"
 #    publication_type = ""
 #    exclude_featured = false
   

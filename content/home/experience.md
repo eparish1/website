@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Ann Arbor, MI"
   date_start = "Aug 2014"
-  date_end = "June 2018"
+  date_end = "Jun 2018"
   description = "Research Advisor: Karthik Duraisamy"
 
 +++
