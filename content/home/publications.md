@@ -66,10 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-[content]
-page_type = "publication"
-count = 5
-
+publication=time_series
 Test 1
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
