@@ -25,7 +25,9 @@ abstract: We formulate a new projection-based reduced-ordered modeling technique
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Reduced-order modeling 
+- Mori-Zwanzig 
+- Petrov--Galerkin 
 featured: false
 
 links:
