@@ -22,16 +22,16 @@ date_format = "Jan 2006"
   company = "Sandia National Laboratories"
   company_url = ""
   location = "California"
-  date_start = "2018"
+  date_start = "Aug 2018"
   date_end = ""
-#
-#[[experience]]
-#  title = "Ph.D. Student"
-#  company = "University of Michigan"
-#  company_url = ""
-#  location = "Ann Arbor, MI"
-#  date_start = "2014"
-#  date_end = "2018"
-#  description = "Research Advisor: Karthik Duraisamy"
+
+[[experience]]
+  title = "Ph.D. Student"
+  company = "University of Michigan"
+  company_url = ""
+  location = "Ann Arbor, MI"
+  date_start = "Aug 2014"
+  date_end = "June 2018"
+  description = "Research Advisor: Karthik Duraisamy"
 
 +++
