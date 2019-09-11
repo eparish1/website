@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Featured Publications"
+title = "Recent Publications"
 subtitle = ""
 
 [content]
@@ -16,14 +16,14 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 1
+  count = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""Time-series machine-learning error models for approximate solutions to parameterized dynamical systems"
+    tag = ""
     category = ""
     publication_type = ""
   
