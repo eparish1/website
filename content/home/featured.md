@@ -9,21 +9,21 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Featured Publications"
-subtitle = "Time-series machine-learning error models for approximate solutions to parameterized dynamical systems"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = ""Time-series machine-learning error models for approximate solutions to parameterized dynamical systems"
     category = ""
     publication_type = ""
   
