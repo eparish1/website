@@ -24,13 +24,13 @@ date_format = "Jan 2006"
   date_start = "2018-08-27"
   date_end = ""
 
-#[[experience]]
-#  title = "Ph.D. Student"
-#  company = "University of Michigan"
-#  company_url = ""
-#  location = "Ann Arbor, MI"
-#  date_start = "Sep 1 2014"
-#  date_end = "Jun 1 2018"
-#  description = "Research Advisor: Karthik Duraisamy"
-#
+[[experience]]
+  title = "Ph.D. Student"
+  company = "University of Michigan"
+  company_url = ""
+  location = "Ann Arbor, MI"
+ date_start = "2014-09-01"
+  date_end = "2018-06-01"
+  description = "Research Advisor: Karthik Duraisamy"
+
 +++
