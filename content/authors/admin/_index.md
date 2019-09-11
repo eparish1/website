@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am the 2018 John von Neumann Postdoctoral Research Fellow at Sandia National Laboratories. I earned my Ph.D. from the University of Michigan in 2018 in Aerospace Engineering. My research focuses on the development of engineering technologies that enable rapid simulation of complex multiscale and multiphysics systems through computational engineering, applied math, and ma- chine learning. 
+bio: I am the 2018 John von Neumann Postdoctoral Research Fellow at Sandia National Laboratories. I earned my Ph.D. from the University of Michigan in 2018 in Aerospace Engineering. My research focuses on the development of engineering technologies that enable rapid simulation of complex multiscale and multiphysics systems through computational engineering, applied math, and machine learning. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Physics 
+- Data Science 
+- Machine Learning
+- Reduced-order Modeling 
 
 education:
   courses:
@@ -66,7 +67,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
+ I am the 2018 John von Neumann Postdoctoral Research Fellow at Sandia National Laboratories. I earned my Ph.D. from the University of Michigan in 2018 in Aerospace Engineering. My research focuses on the development of engineering technologies that enable rapid simulation of complex multiscale and multiphysics systems through computational engineering, applied math, and machine learning. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
