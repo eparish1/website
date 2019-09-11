@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "time_series"
+  page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -65,9 +65,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-publication=time_series
-Test 1
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+#{{% alert note %}}
+#%Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+#{{% /alert %}}
