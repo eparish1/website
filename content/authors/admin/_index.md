@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Eric Parish 
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: John von Neumann Postdoctoral Fellow 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Sandia National Laboratories 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am the 2018 John von Neumann Postdoctoral Research Fellow at Sandia National Laboratories. I earned my Ph.D. from the University of Michigan in 2018 in Aerospace Engineering. My research focuses on the development of engineering technologies that enable rapid simulation of complex multiscale and multiphysics systems through computational engineering, applied math, and ma- chine learning. 
 
 interests:
 - Artificial Intelligence
@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Aerospace Engineering 
+    institution: University of Michigan
+    year: 2018
+  - course: B.S. in Mechanical Engineering 
+    institution: University of Wyoming 
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
