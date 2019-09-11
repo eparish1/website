@@ -1,7 +1,9 @@
 ---
-title: "An example preprint / working paper"
+title: "The Adjoint--Petrov Galerkin Method for Non-linear Model Reduction"
 authors:
 - admin
+- Christopher Wentland
+- Karthik Duraisamy
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -18,10 +20,9 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: We formulate a new projection-based reduced-ordered modeling technique for non-linear dynamical systems. The proposed technique, which we refer to as the Adjoint Petrov-Galerkin (APG) method, is derived by decomposing the generalized coordinates of a dynamical system into a resolved coarse-scale set and an unresolved fine-scale set. A Markovian finite memory assumption within the Mori-Zwanzig formalism is then used to develop a reduced-order representation of the coarse-scales. This procedure leads to a closed reduced-order model that displays commonalities with the adjoint stabilization method used in finite elements. The formulation is shown to be equivalent to a Petrov-Galerkin method with a non-linear, time-varying test basis, thus sharing some similarities with the least-squares Petrov-Galerkin method. Theoretical analysis examining a priori error bounds and computational cost is presented. Numerical experiments on the compressible Navier-Stokes equations demonstrate that the proposed method can lead to improvements in numerical accuracy, robustness, and computational efficiency over the Galerkin method on problems of practical interest. Improvements in numerical accuracy and computational efficiency over the least-squares Petrov-Galerkin method are observed in most cases.
+ 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -29,8 +30,8 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+  url: https://arxiv.org/abs/1810.03455
+url_pdf: https://arxiv.org/pdf/1810.03455.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
