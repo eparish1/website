@@ -34,3 +34,7 @@
     name = "CV"
     url = "files/cv.pdf"
     weight = 70
+
+  name = "PyDG Page"  # Title of the link.
+  url = "pydg/"  # Widget Page folder name.
+  weight = 80  # Position of the link in the navigation bar.
