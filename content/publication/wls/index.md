@@ -34,7 +34,6 @@ url_pdf: https://arxiv.org/pdf/1910.11388.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Vorticity snapshots of various reduced-order models'
   focal_point: ""
   preview_only: false
 
