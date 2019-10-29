@@ -28,7 +28,7 @@ tags:
 - model-order reduction
 - least-squares
 - Petrov-Galerkin
-featured: false 
+featured: true
 
 links:
 url_pdf: https://arxiv.org/pdf/1910.11388.pdf 
