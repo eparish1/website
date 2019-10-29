@@ -19,7 +19,9 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: This work proposes a windowed least-squares (WLS) approach for model-reduction of dynamical systems. The proposed approach sequentially minimizes the time-continuous full-order-model residual within a low-dimensional space-time trial subspace over time windows. The approach comprises a generalization of existing model reduction approaches, as particular instances of the methodology recover Galerkin, least-squares Petrov-Galerkin (LSPG), and space-time LSPG projection. 
+
+ 
 # Summary. An optional shortened abstract.
 
 tags:
