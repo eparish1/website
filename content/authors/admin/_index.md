@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: John von Neumann Postdoctoral Fellow 
+role: Senior member of technical staff 
 
 # Organizations/Affiliations
 organizations:
