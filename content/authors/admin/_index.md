@@ -71,5 +71,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
- I am the 2018 John von Neumann Postdoctoral Research Fellow at Sandia National Laboratories. I earned my Ph.D. from the University of Michigan in 2018 in Aerospace Engineering. My research focuses on the development of engineering technologies that enable rapid simulation of complex multiscale and multiphysics systems through computational engineering, applied math, and machine learning. 
+Eric is a research staff member at Sandia National Laboratories. Previously, Eric was a John von Neumann postdoctoral fellow at Sandia, and before that he earned his Ph.D. from the University of Michigan in Aerospace Engineering. Eric's research focuses on the development of engineering technologies that enable rapid simulation of complex multiscale and multiphysics systems through computational engineering, applied math, and machine learning. He is particulaly interested in reduced-order modeling, numerical methods for PDEs, scientific machine learning, and computational fluid dynamics. 
 
