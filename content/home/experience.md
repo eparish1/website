@@ -24,7 +24,6 @@ date_format = "Jan 2006"
   date_start = "2020-04-01"
   date_end = ""
 
-
 [[experience]]
   title = "John von Neumann Postdoctoral Fellow"
   company = "Sandia National Laboratories"
